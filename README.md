@@ -1,8 +1,8 @@
 <h1 align="center">Hi <img src="https://media1.giphy.com/media/yH84SLHFbeJd4FoGyN/giphy.gif?cid=6c09b952j8wpvchmbwnh3awf9qr6v0x26yso0prbe0zpe6k3&ep=v1_stickers_related&rid=giphy.gif&ct=ts" alt="hello" height=67 width=60>, I'm Shantanu Ingale</h1>
-<h3 align="center">Hi i am Shantanu Ingale, currently persuing my engineering degree in CSE from National Institute of Technology Goa,Cuncolim,Goa</h3>
+<h3 align="center">Hi i am Shantanu Ingale, currently persuing my engineering degree in CSE from NIT Goa</h3>
 
 # 
-- 🌱 I’m currently learning **Machine Learning, Web3** and **Android Developement**
+- 🌱 I’m currently learning **Machine Learning** and **Web3** 
 - 💻 I'm a **Competetive Programmer** and **Data science enthusiast**
 - 📫 My mail id: **shantanu.ingale22@gmail.com**
 #
