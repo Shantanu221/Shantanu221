@@ -8,7 +8,7 @@
 #
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/shantanu-ingale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu ingale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shantanu-ingale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shantanu ingale" height="30" width="40" /></a>
 <a href="https://instagram.com/shantanu_i_c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shantanu_i_c" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/matreon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="matreon" height="30" width="40" /></a>
 </p> 
